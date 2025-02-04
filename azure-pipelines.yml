@@ -14,9 +14,9 @@ steps:
   inputs:
     deploymentScope: 'Resource Group'
     azureResourceManagerConnection: 'YoganshuTestARM'
-    subscriptionId: 'b53e93d0-eccf-4ce1-bc65-8380f45d0840'
+    subscriptionId: '57336311-017d-4d49-ae71-ab020631b879'
     action: 'Create Or Update Resource Group'
-    resourceGroupName: 'YoganshuTes'
+    resourceGroupName: 'YoganshuTest'
     location: 'East US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://github.com/yogi123-cpu/ARMYoganshu/blob/main/create_web_app/azuredeploy.json'
